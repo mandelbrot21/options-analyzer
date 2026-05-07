@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 10
+
+[runner]
+# Forza Python 3.12
+pythonVersion = "3.12"
